@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&text=heelo)
+![header](https://capsule-render.vercel.app/api?type=Slice&text=heelo)
