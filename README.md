@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello+I'm+Eunchong+Kim!&fontSize=40&fontAlign=30&fontAlignY=30&fontColor=FFFFFF&desc=Frontend+Engineer&descAlign=13&descAlignY=48&animation=fadeIn&height=150)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello+I'm+Eunchong+Kim!&fontSize=40&fontAlign=30&fontAlignY=30&fontColor=FFFFFF&desc=Frontend+Engineer&descAlign=13&descAlignY=48&animation=fadeIn&height=200)
